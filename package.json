@@ -28,7 +28,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --silent --env=jest-environment-jsdom-sixteen",
     "eject": "react-scripts eject",
-    "start:mock-server": "nodemon --watch server --exec npx json-server --p 3001 server/mockserver.js --routes server/routes.json",
     "test:ci": "yarn test -- --watchAll=false",
     "test:coverage": "yarn test -- --watchAll=false --coverage",
     "lint": "eslint --quiet .",

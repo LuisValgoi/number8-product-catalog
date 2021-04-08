@@ -1,9 +1,7 @@
 import React from 'react';
-import { isPhone } from '@ui5/webcomponents-base/dist/Device';
 
 const style = {
   centered: {
-    minWidth: isPhone() ? '80%' : '50%',
     padding: '1rem',
     margin: '0 auto',
   },

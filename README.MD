@@ -27,3 +27,11 @@ Number8 use case during talk
 - it has `ErrorBoundaries` and `Fallbacks` for notfound and error handling
 
 - it has lazy loading of pages
+
+# Images
+
+![image](https://user-images.githubusercontent.com/8363610/113951838-c351ee00-97ea-11eb-9a52-f724e728e2bd.png)
+
+![image](https://user-images.githubusercontent.com/8363610/113951858-cfd64680-97ea-11eb-917a-b07fe6e493d5.png)
+
+![image](https://user-images.githubusercontent.com/8363610/113951924-fbf1c780-97ea-11eb-88c9-1f68eb107147.png)

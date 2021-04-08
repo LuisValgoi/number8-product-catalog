@@ -1,9 +1,9 @@
 {
   "app.generics.close": "Close",
-  "helmet.title.app": "TodoList App",
-  "helmet.title.error": "Buggy Component - TodoList App",
-  "helmet.title.notfound": "NotFound - TodoList App",
-  "shell.title": "TodoList Application",
+  "helmet.title.app": "Product Catalog App",
+  "helmet.title.error": "Buggy Component - Product Catalog App",
+  "helmet.title.notfound": "NotFound - Product Catalog App",
+  "shell.title": "Product Catalog Application",
   "shell.logo.alt": "SAP Logo",
   "shell.button.user.settings": "User Settings",
   "shell.button.user.settings.item.themeSwitch": "Theme",
